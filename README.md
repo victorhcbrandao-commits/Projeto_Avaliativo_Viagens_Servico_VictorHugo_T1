@@ -236,21 +236,29 @@ A camada Silver melhora a integridade dos dados por meio de tipos corretos, chav
 
 O projeto deve ser enviado ao GitHub em repositório público, com commits descritivos e separados por funcionalidade.
 
-Sugestão de commits:
+O desenvolvimento foi organizado utilizando branches para modelagem do banco, extração da camada Raw, transformação da camada Silver, análise da camada Gold e documentação, conforme as boas práticas de versionamento com Git.
+
+Commits:
 
 ```bash
-git add 0_criar_banco.sql config.py banco.py requirements.txt .env.example .gitignore
-git commit -m "Cria estrutura inicial e modelagem do banco"
+git add .gitignore
+git commit -m "Configura arquivos ignorados do projeto"
 
-git add 1_extrair.py
+git add config.py banco.py 0_criar_banco.sql .env.example requirements.txt
+git commit -m "Cria configuracao e modelagem do banco"
+
+git add 1_extrair.py data/raw/README.md data/raw/viagens_2025_6meses.zip
 git commit -m "Implementa extracao e carga da camada raw"
 
-git add 2_transformar.py
-git commit -m "Implementa transformacao e carga da camada silver"
+git add 2_transformar.py docs/DICIONARIO_DADOS.md
+git commit -m "Implementa limpeza e carga da camada Silver"
 
 git add 3_analise.ipynb 3_gold_consultas.sql
 git commit -m "Implementa camada gold e perguntas de negocio"
 
-git add README.md COMANDOS_GITHUB.md docs/ data/sample/ data/raw/README.md
-git commit -m "Finaliza documentacao e organizacao do projeto"
+git add README.md COMANDOS_GITHUB.md data/sample/
+git commit -m "Finaliza documentacao e amostras do projeto"
+
+git add README.md data/raw/README.md
+git commit -m "atualiza documentação do projeto"
 ```

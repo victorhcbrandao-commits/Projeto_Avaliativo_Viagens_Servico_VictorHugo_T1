@@ -1,11 +1,12 @@
-# Pasta `data/raw`
+# Pasta data/raw
 
-Coloque aqui o arquivo `viagens_2025_6meses.zip` para execução local.
+Esta pasta contém o arquivo `viagens_2025_6meses.zip`, utilizado na etapa de extração dos dados.
 
-O ZIP não deve ser versionado no GitHub. Se preferir, configure `DRIVE_FILE_ID` no `.env` para download automático via Google Drive.
+O projeto espera encontrar esse arquivo neste diretório para realizar a carga da camada Raw.
 
-CSVs esperados dentro do ZIP:
-- `2025_Viagem.csv`
-- `2025_Pagamento.csv`
-- `2025_Passagem.csv`
-- `2025_Trecho.csv`
+Conteúdo esperado do ZIP:
+
+- 2025_Viagem.csv
+- 2025_Pagamento.csv
+- 2025_Passagem.csv
+- 2025_Trecho.csv
