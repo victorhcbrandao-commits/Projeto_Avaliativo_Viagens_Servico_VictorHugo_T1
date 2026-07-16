@@ -1,0 +1,101 @@
+Identificador do processo de viagem ;Número da Proposta (PCDP);Sequência Trecho;Origem - Data;Origem - País;Origem - UF;Origem - Cidade;Destino - Data;Destino - País;Destino - UF;Destino - Cidade;Meio de transporte;Número Diárias;Missao?
+0000000000020261730;000086/25-1C;1;01/03/2025;Brasil;Rio de Janeiro;Niterói;01/03/2025;Brasil;Rio de Janeiro;Rio de Janeiro;Fluvial;0,00;Não
+0000000000020261730;000086/25-1C;3;01/03/2025;Brasil;Distrito Federal;Brasília;04/08/2025;Brasil;Acre;Rio Branco;Aéreo;0,00;Sim
+0000000000020261730;000086/25-1C;2;01/03/2025;Brasil;Rio de Janeiro;Rio de Janeiro;01/03/2025;Brasil;Distrito Federal;Brasília;Aéreo;0,00;Não
+0000000000020261730;000086/25-1C;4;04/08/2025;Brasil;Acre;Rio Branco;04/08/2025;Brasil;Rio de Janeiro;Niterói;Rodoviário;0,00;Não
+0000000000020286869;000002/25;1;25/01/2025;Brasil;Paraná;Maringá;01/02/2025;Brasil;Tocantins;Palmas;Aéreo;0,00;Sim
+0000000000020286869;000002/25;2;01/02/2025;Brasil;Tocantins;Palmas;01/02/2025;Brasil;Paraná;Maringá;Aéreo;0,00;Não
+0000000000020289421;000001/25;2;05/01/2025;Colômbia;;Bogotá;07/01/2025;Brasil;Minas Gerais;Uberlândia;Aéreo;0,00;Sim
+0000000000020289421;000001/25;1;05/01/2025;Colômbia;;Bogotá;05/01/2025;Colômbia;;Bogotá;Aéreo;0,00;Sim
+0000000000020289650;000004/25;1;04/01/2025;Reino Unido;;Londres;04/01/2025;Reino Unido;;Londres;Aéreo;0,00;Sim
+0000000000020289650;000004/25;2;04/01/2025;Reino Unido;;Londres;06/01/2025;Brasil;Distrito Federal;Brasília;Aéreo;0,00;Sim
+0000000000020289787;000003/25;1;04/01/2025;Reino Unido;;Londres;04/01/2025;Reino Unido;;Londres;Aéreo;0,00;Sim
+0000000000020289787;000003/25;2;04/01/2025;Reino Unido;;Londres;06/01/2025;Brasil;Distrito Federal;Brasília;Aéreo;0,00;Sim
+0000000000020289848;000002/25;1;04/01/2025;Reino Unido;;Londres;04/01/2025;Reino Unido;;Londres;Aéreo;0,00;Sim
+0000000000020289848;000002/25;2;04/01/2025;Reino Unido;;Londres;06/01/2025;Brasil;Distrito Federal;Brasília;Aéreo;0,00;Sim
+0000000000020290601;000001/25;4;30/01/2025;Estados Unidos da América;;Palo Alto - Califórnia;30/01/2025;Estados Unidos da América;;San Francisco - Califórnia;Rodoviário;0,00;Não
+0000000000020290601;000001/25;1;16/01/2025;Brasil;Minas Gerais;Juiz de Fora;16/01/2025;Brasil;Rio de Janeiro;Rio de Janeiro;Rodoviário;0,00;Não
+0000000000020290601;000001/25;6;31/01/2025;Brasil;Rio de Janeiro;Rio de Janeiro;31/01/2025;Brasil;Minas Gerais;Juiz de Fora;Rodoviário;0,00;Não
+0000000000020290601;000001/25;2;16/01/2025;Brasil;Rio de Janeiro;Rio de Janeiro;16/01/2025;Estados Unidos da América;;San Francisco - Califórnia;Aéreo;0,00;Não
+0000000000020290601;000001/25;5;30/01/2025;Estados Unidos da América;;San Francisco - Califórnia;31/01/2025;Brasil;Rio de Janeiro;Rio de Janeiro;Aéreo;0,00;Não
+0000000000020290601;000001/25;3;16/01/2025;Estados Unidos da América;;San Francisco - Califórnia;30/01/2025;Estados Unidos da América;;Palo Alto - Califórnia;Rodoviário;0,00;Sim
+0000000000020304096;000001/25-1C;2;26/03/2025;Brasil;Paraná;Curitiba;26/03/2025;Brasil;Mato Grosso do Sul;Campo Grande;Aéreo;0,00;Não
+0000000000020304096;000001/25-1C;1;24/03/2025;Brasil;Mato Grosso do Sul;Campo Grande;26/03/2025;Brasil;Paraná;Curitiba;Aéreo;1,00;Sim
+0000000000020306120;000008/25;2;07/01/2025;Peru;;Lima;09/01/2025;Brasil;Rio de Janeiro;Rio de Janeiro;Aéreo;0,00;Sim
+0000000000020306120;000008/25;1;07/01/2025;Peru;;Lima;07/01/2025;Peru;;Lima;Aéreo;0,00;Sim
+0000000000020306216;000006/25;2;07/01/2025;Peru;;Lima;09/01/2025;Brasil;Rio de Janeiro;Rio de Janeiro;Aéreo;0,00;Sim
+0000000000020306216;000006/25;1;07/01/2025;Peru;;Lima;07/01/2025;Peru;;Lima;Aéreo;0,00;Sim
+0000000000020306275;000005/25;2;07/01/2025;Peru;;Lima;09/01/2025;Brasil;Rio de Janeiro;Rio de Janeiro;Aéreo;0,00;Sim
+0000000000020306275;000005/25;1;07/01/2025;Peru;;Lima;07/01/2025;Peru;;Lima;Aéreo;0,00;Sim
+0000000000020310771;000007/25;2;07/01/2025;Peru;;Lima;09/01/2025;Brasil;Rio de Janeiro;Rio de Janeiro;Aéreo;0,00;Sim
+0000000000020310771;000007/25;1;07/01/2025;Peru;;Lima;07/01/2025;Peru;;Lima;Aéreo;0,00;Sim
+0000000000020313425;000011/25;1;16/01/2025;Coréia do Sul;;Seul;16/01/2025;Coréia do Sul;;Seul;Aéreo;0,00;Sim
+0000000000020313425;000011/25;2;16/01/2025;Coréia do Sul;;Seul;18/01/2025;Brasil;São Paulo;Guarulhos;Aéreo;0,00;Sim
+0000000000020313439;000010/25;1;16/01/2025;Coréia do Sul;;Seul;16/01/2025;Coréia do Sul;;Seul;Aéreo;0,00;Sim
+0000000000020313439;000010/25;2;16/01/2025;Coréia do Sul;;Seul;18/01/2025;Brasil;São Paulo;Guarulhos;Aéreo;0,00;Sim
+0000000000020313445;000009/25;1;16/01/2025;Coréia do Sul;;Seul;16/01/2025;Coréia do Sul;;Seul;Aéreo;0,00;Sim
+0000000000020313445;000009/25;2;16/01/2025;Coréia do Sul;;Seul;18/01/2025;Brasil;São Paulo;Guarulhos;Aéreo;0,00;Sim
+0000000000020317742;000012/25;2;10/02/2025;Estados Unidos da América;;Washington;12/02/2025;Brasil;São Paulo;São Paulo;Aéreo;0,00;Sim
+0000000000020317742;000012/25;1;10/02/2025;Estados Unidos da América;;Washington;10/02/2025;Estados Unidos da América;;Washington;Aéreo;0,00;Sim
+0000000000020319980;000016/25;2;04/01/2025;Paraguai;;Assunção;06/01/2025;Brasil;Mato Grosso do Sul;Campo Grande;Aéreo;0,00;Sim
+0000000000020319980;000016/25;1;04/01/2025;Paraguai;;Assunção;04/01/2025;Paraguai;;Assunção;Aéreo;0,00;Sim
+0000000000020320077;000015/25;2;04/01/2025;Paraguai;;Assunção;06/01/2025;Brasil;Mato Grosso do Sul;Campo Grande;Aéreo;0,00;Sim
+0000000000020320077;000015/25;1;04/01/2025;Paraguai;;Assunção;04/01/2025;Paraguai;;Assunção;Aéreo;0,00;Sim
+0000000000020320234;000014/25;2;04/01/2025;Paraguai;;Assunção;06/01/2025;Brasil;Mato Grosso do Sul;Campo Grande;Aéreo;0,00;Sim
+0000000000020320234;000014/25;1;04/01/2025;Paraguai;;Assunção;04/01/2025;Paraguai;;Assunção;Aéreo;0,00;Sim
+0000000000020321548;000001/25;4;01/02/2025;Espanha;;Madri;02/02/2025;Brasil;Distrito Federal;Brasília;Aéreo;0,00;Não
+0000000000020321548;000001/25;2;28/01/2025;Espanha;;Madri;01/02/2025;Espanha;;Salamanca;Ferroviário;0,00;Sim
+0000000000020321548;000001/25;1;27/01/2025;Brasil;Distrito Federal;Brasília;28/01/2025;Espanha;;Madri;Aéreo;0,00;Não
+0000000000020321548;000001/25;3;01/02/2025;Espanha;;Salamanca;01/02/2025;Espanha;;Madri;Ferroviário;0,00;Não
+0000000000020325713;000018/25;1;30/01/2025;Colômbia;;Bogotá;30/01/2025;Colômbia;;Bogotá;Aéreo;0,00;Sim
+0000000000020325713;000018/25;2;30/01/2025;Colômbia;;Bogotá;01/02/2025;Brasil;Rio Grande do Sul;Porto Alegre;Aéreo;0,00;Sim
+0000000000020325773;000017/25;1;30/01/2025;Colômbia;;Bogotá;30/01/2025;Colômbia;;Bogotá;Aéreo;0,00;Sim
+0000000000020325773;000017/25;2;30/01/2025;Colômbia;;Bogotá;01/02/2025;Brasil;Rio Grande do Sul;Porto Alegre;Aéreo;0,00;Sim
+0000000000020329961;000021/25;2;30/01/2025;Paraguai;;Assunção;01/02/2025;Brasil;Rio de Janeiro;Rio de Janeiro;Aéreo;0,00;Sim
+0000000000020329961;000021/25;1;30/01/2025;Paraguai;;Assunção;30/01/2025;Paraguai;;Assunção;Aéreo;0,00;Sim
+0000000000020330077;000019/25;2;30/01/2025;Paraguai;;Assunção;01/02/2025;Brasil;Rio de Janeiro;Rio de Janeiro;Aéreo;0,00;Sim
+0000000000020330077;000019/25;1;30/01/2025;Paraguai;;Assunção;30/01/2025;Paraguai;;Assunção;Aéreo;0,00;Sim
+0000000000020330226;000001/25-1C;1;08/02/2025;Brasil;Mato Grosso;Sinop;23/02/2025;Reino Unido;;Londres;Aéreo;7,50;Sim
+0000000000020330226;000001/25-1C;2;23/02/2025;Reino Unido;;Londres;24/02/2025;Brasil;Mato Grosso;Sinop;Aéreo;1,00;Não
+0000000000020331306;000025/25;2;25/01/2025;Bolívia;;La Paz;27/01/2025;Brasil;Mato Grosso do Sul;Campo Grande;Aéreo;0,00;Sim
+0000000000020331306;000025/25;1;25/01/2025;Bolívia;;La Paz;25/01/2025;Bolívia;;La Paz;Aéreo;0,00;Sim
+0000000000020331416;000024/25;2;25/01/2025;Bolívia;;La Paz;27/01/2025;Brasil;Mato Grosso do Sul;Campo Grande;Aéreo;0,00;Sim
+0000000000020331416;000024/25;1;25/01/2025;Bolívia;;La Paz;25/01/2025;Bolívia;;La Paz;Aéreo;0,00;Sim
+0000000000020331530;000023/25;2;25/01/2025;Bolívia;;La Paz;27/01/2025;Brasil;Mato Grosso do Sul;Campo Grande;Aéreo;0,00;Sim
+0000000000020331530;000023/25;1;25/01/2025;Bolívia;;La Paz;25/01/2025;Bolívia;;La Paz;Aéreo;0,00;Sim
+0000000000020331615;000022/25;2;25/01/2025;Bolívia;;La Paz;27/01/2025;Brasil;Mato Grosso do Sul;Campo Grande;Aéreo;0,00;Sim
+0000000000020331615;000022/25;1;25/01/2025;Bolívia;;La Paz;25/01/2025;Bolívia;;La Paz;Aéreo;0,00;Sim
+0000000000020332398;000381/25-1C;4;18/01/2025;Brasil;São Paulo;São Paulo;18/01/2025;Brasil;Distrito Federal;Brasília;Aéreo;0,50;Não
+0000000000020332398;000381/25-1C;1;14/01/2025;Brasil;Distrito Federal;Brasília;14/01/2025;Brasil;São Paulo;São Paulo;Aéreo;0,00;Não
+0000000000020332398;000381/25-1C;2;14/01/2025;Brasil;São Paulo;São Paulo;18/01/2025;Brasil;Minas Gerais;Pouso Alegre;Veículo Oficial;4,00;Sim
+0000000000020332398;000381/25-1C;3;18/01/2025;Brasil;Minas Gerais;Pouso Alegre;18/01/2025;Brasil;São Paulo;São Paulo;Veículo Oficial;0,00;Não
+0000000000020332478;000383/25-1C;4;01/02/2025;Brasil;São Paulo;São Paulo;01/02/2025;Brasil;Distrito Federal;Brasília;Aéreo;0,50;Não
+0000000000020332478;000383/25-1C;2;27/01/2025;Brasil;São Paulo;São Paulo;01/02/2025;Brasil;Minas Gerais;Pouso Alegre;Veículo Oficial;5,00;Sim
+0000000000020332478;000383/25-1C;1;27/01/2025;Brasil;Distrito Federal;Brasília;27/01/2025;Brasil;São Paulo;São Paulo;Aéreo;0,00;Não
+0000000000020332478;000383/25-1C;3;01/02/2025;Brasil;Minas Gerais;Pouso Alegre;01/02/2025;Brasil;São Paulo;São Paulo;Veículo Oficial;0,00;Não
+0000000000020332893;000379/25-1C;4;18/01/2025;Brasil;São Paulo;São Paulo;18/01/2025;Brasil;Distrito Federal;Brasília;Aéreo;0,50;Não
+0000000000020332893;000379/25-1C;2;14/01/2025;Brasil;São Paulo;São Paulo;18/01/2025;Brasil;Minas Gerais;Pouso Alegre;Veículo Oficial;4,00;Sim
+0000000000020332893;000379/25-1C;3;18/01/2025;Brasil;Minas Gerais;Pouso Alegre;18/01/2025;Brasil;São Paulo;São Paulo;Veículo Oficial;0,00;Não
+0000000000020332893;000379/25-1C;1;14/01/2025;Brasil;Distrito Federal;Brasília;14/01/2025;Brasil;São Paulo;São Paulo;Aéreo;0,00;Não
+0000000000020332927;000384/25-1C;4;01/02/2025;Brasil;São Paulo;São Paulo;01/02/2025;Brasil;Distrito Federal;Brasília;Aéreo;0,50;Não
+0000000000020332927;000384/25-1C;2;29/01/2025;Brasil;São Paulo;São Paulo;01/02/2025;Brasil;Minas Gerais;Pouso Alegre;Veículo Oficial;3,00;Sim
+0000000000020332927;000384/25-1C;1;29/01/2025;Brasil;Distrito Federal;Brasília;29/01/2025;Brasil;São Paulo;São Paulo;Aéreo;0,00;Não
+0000000000020332927;000384/25-1C;3;01/02/2025;Brasil;Minas Gerais;Pouso Alegre;01/02/2025;Brasil;São Paulo;São Paulo;Veículo Oficial;0,00;Não
+0000000000020333036;000380/25-1C;4;18/01/2025;Brasil;São Paulo;São Paulo;18/01/2025;Brasil;Distrito Federal;Brasília;Aéreo;0,50;Não
+0000000000020333036;000380/25-1C;2;14/01/2025;Brasil;São Paulo;São Paulo;18/01/2025;Brasil;Minas Gerais;Pouso Alegre;Veículo Oficial;4,00;Sim
+0000000000020333036;000380/25-1C;3;18/01/2025;Brasil;Minas Gerais;Pouso Alegre;18/01/2025;Brasil;São Paulo;São Paulo;Veículo Oficial;0,00;Não
+0000000000020333036;000380/25-1C;1;14/01/2025;Brasil;Distrito Federal;Brasília;14/01/2025;Brasil;São Paulo;São Paulo;Aéreo;0,00;Não
+0000000000020333055;000385/25-1C;4;01/02/2025;Brasil;São Paulo;São Paulo;01/02/2025;Brasil;Distrito Federal;Brasília;Aéreo;0,50;Não
+0000000000020333055;000385/25-1C;2;29/01/2025;Brasil;São Paulo;São Paulo;01/02/2025;Brasil;Minas Gerais;Pouso Alegre;Veículo Oficial;3,00;Sim
+0000000000020333055;000385/25-1C;3;01/02/2025;Brasil;Minas Gerais;Pouso Alegre;01/02/2025;Brasil;São Paulo;São Paulo;Veículo Oficial;0,00;Não
+0000000000020333055;000385/25-1C;1;29/01/2025;Brasil;Distrito Federal;Brasília;29/01/2025;Brasil;São Paulo;São Paulo;Aéreo;0,00;Não
+0000000000020333078;000375/25-1C;4;02/02/2025;Brasil;São Paulo;São Paulo;02/02/2025;Brasil;Distrito Federal;Brasília;Aéreo;0,50;Não
+0000000000020333078;000375/25-1C;2;13/01/2025;Brasil;São Paulo;São Paulo;02/02/2025;Brasil;Minas Gerais;Pouso Alegre;Veículo Oficial;20,00;Sim
+0000000000020333078;000375/25-1C;3;02/02/2025;Brasil;Minas Gerais;Pouso Alegre;02/02/2025;Brasil;São Paulo;São Paulo;Veículo Oficial;0,00;Não
+0000000000020333078;000375/25-1C;1;13/01/2025;Brasil;Distrito Federal;Brasília;13/01/2025;Brasil;São Paulo;São Paulo;Aéreo;0,00;Não
+0000000000020334043;000029/25;3;30/01/2025;Brasil;São Paulo;São Paulo;31/01/2025;Brasil;Minas Gerais;Três Corações;Rodoviário;0,00;Sim
+0000000000020334043;000029/25;1;30/01/2025;Colômbia;;Bogotá;30/01/2025;Colômbia;;Bogotá;Aéreo;0,00;Sim
+0000000000020334043;000029/25;2;30/01/2025;Colômbia;;Bogotá;30/01/2025;Brasil;São Paulo;São Paulo;Aéreo;0,00;Sim
+0000000000020334146;000028/25;3;30/01/2025;Brasil;São Paulo;São Paulo;31/01/2025;Brasil;Minas Gerais;Três Corações;Rodoviário;0,00;Sim
+0000000000020334146;000028/25;1;30/01/2025;Colômbia;;Bogotá;30/01/2025;Colômbia;;Bogotá;Aéreo;0,00;Sim
+0000000000020334146;000028/25;2;30/01/2025;Colômbia;;Bogotá;30/01/2025;Brasil;São Paulo;São Paulo;Aéreo;0,00;Sim
